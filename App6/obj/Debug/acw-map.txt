@@ -1,0 +1,8 @@
+App6.Activity1, App6;md50033386ba710bcf156abf7e9c48d30ef.Activity1
+App6.Activity1, App6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50033386ba710bcf156abf7e9c48d30ef.Activity1
+App6.Activity1;md50033386ba710bcf156abf7e9c48d30ef.Activity1
+app6.Activity1;md50033386ba710bcf156abf7e9c48d30ef.Activity1
+App6.MainActivity, App6;md50033386ba710bcf156abf7e9c48d30ef.MainActivity
+App6.MainActivity, App6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50033386ba710bcf156abf7e9c48d30ef.MainActivity
+App6.MainActivity;md50033386ba710bcf156abf7e9c48d30ef.MainActivity
+app6.MainActivity;md50033386ba710bcf156abf7e9c48d30ef.MainActivity
